@@ -154,11 +154,12 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 ~~~
 
 ## Output screen shots of serial port utility   :
- ![Screenshot 2024-09-09 090152](https://github.com/user-attachments/assets/65d33268-1463-48b2-bf21-5e94dda900ae)
+ <img width="1861" height="1199" alt="image" src="https://github.com/user-attachments/assets/f58ce355-029e-4a20-9be9-d9980c55fd53" />
+
 
   ## Circuit board :
  
- <img width="359" height="742" alt="image" src="https://github.com/user-attachments/assets/1aaeacef-3f70-4b4e-857c-418118a4b793" />
+ ![WhatsApp Image 2025-10-17 at 15 05 26_38afb7c0](https://github.com/user-attachments/assets/e8b97b0e-86dc-403c-a30e-2e93e38c44fb)
 
 
  

@@ -158,8 +158,13 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
 
   ## Circuit board :
+ Obstacle Detected:
  
  ![WhatsApp Image 2025-10-17 at 15 05 26_38afb7c0](https://github.com/user-attachments/assets/e8b97b0e-86dc-403c-a30e-2e93e38c44fb)
+
+ Obstacle not Detected :
+ 
+![WhatsApp Image 2025-10-31 at 09 32 29_215d0201](https://github.com/user-attachments/assets/e29ccef9-d5be-4f13-8a8e-49fd7f387217)
 
 
  

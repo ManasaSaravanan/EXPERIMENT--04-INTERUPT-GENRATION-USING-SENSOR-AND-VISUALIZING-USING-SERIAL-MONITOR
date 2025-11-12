@@ -156,6 +156,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 ## Output screen shots of serial port utility   :
  <img width="1861" height="1199" alt="image" src="https://github.com/user-attachments/assets/f58ce355-029e-4a20-9be9-d9980c55fd53" />
 
+<img width="1743" height="927" alt="image" src="https://github.com/user-attachments/assets/ffe67e51-c3a9-4bfd-be3d-703071166357" />
 
   ## Circuit board :
  Obstacle Detected:

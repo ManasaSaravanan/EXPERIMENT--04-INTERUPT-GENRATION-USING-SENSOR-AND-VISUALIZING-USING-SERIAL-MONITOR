@@ -165,7 +165,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
  Obstacle not Detected :
  
-![WhatsApp Image 2025-10-31 at 09 32 29_215d0201](https://github.com/user-attachments/assets/e29ccef9-d5be-4f13-8a8e-49fd7f387217)
+<img width="641" height="382" alt="image" src="https://github.com/user-attachments/assets/36f0d577-a6e2-4023-908c-fd27df4a775e" />
 
 
  
